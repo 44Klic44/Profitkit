@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Profitkit/static/css/main.303935fc.css",
-    "main.js": "/Profitkit/static/js/main.e2492254.js",
+    "main.css": "/Profitkit/static/css/main.33682a4f.css",
+    "main.js": "/Profitkit/static/js/main.d0be44ca.js",
     "static/js/453.a2b4e476.chunk.js": "/Profitkit/static/js/453.a2b4e476.chunk.js",
     "static/media/slick.svg": "/Profitkit/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Profitkit/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Profitkit/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Profitkit/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Profitkit/index.html",
-    "main.303935fc.css.map": "/Profitkit/static/css/main.303935fc.css.map",
-    "main.e2492254.js.map": "/Profitkit/static/js/main.e2492254.js.map",
+    "main.33682a4f.css.map": "/Profitkit/static/css/main.33682a4f.css.map",
+    "main.d0be44ca.js.map": "/Profitkit/static/js/main.d0be44ca.js.map",
     "453.a2b4e476.chunk.js.map": "/Profitkit/static/js/453.a2b4e476.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.303935fc.css",
-    "static/js/main.e2492254.js"
+    "static/css/main.33682a4f.css",
+    "static/js/main.d0be44ca.js"
   ]
 }
